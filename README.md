@@ -7,6 +7,7 @@ This repository contains a Python-based predictive modeling project for predicti
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
+- [Contact](#contact)
 
 ## Overview
 
@@ -26,10 +27,8 @@ Ensure you have the following installed on your local development environment:
 
 - Python 3.x
 - pip (Python package installer)
-- Jupyter Notebook (optional but recommended)
+- Git
 
-### Installation
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/real-estate-pricing-prediction.git
+## Contact
+If you have any questions, feel free to contact me at 
+[![Outlook](https://img.shields.io/badge/-outlook?style=social&logo=minutemailer&logoColor=blue&label=mohamedfedi.letaief%40eniso.u-sousse.tn&color=grey)](mailto:mohamedfedi.letaief@eniso.u-sousse.tn)
